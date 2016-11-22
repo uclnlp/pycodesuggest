@@ -1,0 +1,47 @@
+Found processed files from previous session, continuing...
+web2py/web2py/anyserver.py
+web2py/web2py/fabfile.py
+web2py/web2py/setup.py
+web2py/web2py/web2py.py
+web2py/web2py/applications/__init__.py
+web2py/web2py/applications/admin/__init__.py
+web2py/web2py/applications/admin/controllers/appadmin.py
+web2py/web2py/applications/admin/controllers/debug.py
+web2py/web2py/applications/admin/controllers/default.py
+web2py/web2py/applications/admin/controllers/gae.py
+web2py/web2py/applications/admin/controllers/mercurial.py
+web2py/web2py/applications/admin/controllers/openshift.py
+web2py/web2py/applications/admin/controllers/plugin_jqmobile.py
+web2py/web2py/applications/admin/controllers/pythonanywhere.py
+web2py/web2py/applications/admin/controllers/shell.py
+web2py/web2py/applications/admin/controllers/toolbar.py
+web2py/web2py/applications/admin/controllers/webservices.py
+web2py/web2py/applications/admin/controllers/wizard.py
+web2py/web2py/applications/admin/cron/expire_sessions.py
+web2py/web2py/applications/admin/languages/af.py
+web2py/web2py/applications/admin/languages/bg.py
+web2py/web2py/applications/admin/languages/cs.py
+web2py/web2py/applications/admin/languages/de.py
+web2py/web2py/applications/admin/languages/default.py
+web2py/web2py/applications/admin/languages/es.py
+web2py/web2py/applications/admin/languages/fr.py
+web2py/web2py/applications/admin/languages/he.py
+web2py/web2py/applications/admin/languages/it.py
+web2py/web2py/applications/admin/languages/ja.py
+web2py/web2py/applications/admin/languages/my-mm.py
+web2py/web2py/applications/admin/languages/nl.py
+web2py/web2py/applications/admin/languages/pl.py
+web2py/web2py/applications/admin/languages/plural-en.py
+web2py/web2py/applications/admin/languages/plural-ru.py
+web2py/web2py/applications/admin/languages/plural-uk.py
+web2py/web2py/applications/admin/languages/pt-br.py
+web2py/web2py/applications/admin/languages/pt.py
+web2py/web2py/applications/admin/languages/ro.py
+web2py/web2py/applications/admin/languages/ru.py
+Keyboard interrupt, saving...
+Processed files: 31
+Syntax errors: 7
+File not found errors: 0
+Other errors: 0
+Skipped: 0
+Done
