@@ -55,7 +55,7 @@ Then copy the 3 generated lists to the original un-normalised path.
 
 ## Citing
 If you make use of this code or the Python corpus, please cite:
-'''
+`
 @article{pycodesuggest,
   author    = {Avishkar Bhoopchand and
                Tim Rockt{\"{a}}schel and
@@ -65,5 +65,5 @@ If you make use of this code or the Python corpus, please cite:
   year      = {2016},
   url       = {http://arxiv.org/abs/1611.08307}
 }
-'''
+`
 
