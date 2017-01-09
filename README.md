@@ -53,4 +53,17 @@ To generate a new split, run the following command which generates the list of t
 
 Then copy the 3 generated lists to the original un-normalised path. 
 
+## Citing
+If you make use of this code or the Python corpus, please cite:
+'''
+@article{pycodesuggest,
+  author    = {Avishkar Bhoopchand and
+               Tim Rockt{\"{a}}schel and
+               Earl Barr and
+               Sebastian Riedel},
+  title     = {Learning Python Code Suggestion with a Sparse Pointer Network},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1611.08307}
+}
+'''
 
