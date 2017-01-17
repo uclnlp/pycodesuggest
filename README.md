@@ -14,9 +14,9 @@ This repository contains the code used in the paper "Learning Python Code Sugges
 ### Step 1: Cloning the Repos
 To recreate the corpus used in the paper, run:
 
-`python3 github-scraper/scraper.py --mode=recreate --outdir=<PATH-TO-OUTPUT-DIR> --dbfile=data/cloned_repos.dat --githubuser=<GITHUB USERNAME>`
+`python3 github-scraper/scraper.py --mode=recreate --outdir=<PATH-TO-OUTPUT-DIR> --dbfile=/FULL/PATH/TO/pycodesuggest/data/cloned_repos.dat --githubuser=<GITHUB USERNAME>`
 
-Where outdir is the path on your local machine where the repos will be cloned. You will be prompted for your Github password.
+Where outdir is the path on your local machine where the repos will be cloned. Note that the dbfile path should be the *full* path on your machine. You may be prompted for your Github password.
 
 ---
 
