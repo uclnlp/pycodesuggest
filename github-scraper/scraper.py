@@ -7,7 +7,6 @@ import time
 import getopt
 import sys
 
-
 def login_github(githubUser):
     password = getpass('GitHub password for {0}: '.format(githubUser))
     g = login(githubUser, password)
@@ -56,7 +55,7 @@ def recreate(repos, outputDirectory):
 def create_repos(dbFile):
     repos = []
     if os.path.exists(dbFile):
-        infile = open(dbFile)
+        infile = open(dbFile, "rb")
         repos = pickle.load(infile)
         infile.close()
     return repos
